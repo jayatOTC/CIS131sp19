@@ -2,4 +2,6 @@
 ## CIS131 Spring 2019
 
 editted by using the "pencil thingy" then added the two pound signs in line two above. 
-# is h1 ## is h2
+ - # is h1 ## is h2
+
+ 12:57 created index.html file 
